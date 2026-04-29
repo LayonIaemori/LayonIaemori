@@ -103,5 +103,5 @@ Tem uma ideia, oportunidade ou só quer trocar uma ideia sobre tech? Me chama!
 ---
 
 <div align="center">
-  <sub>Feito com ❤️ por Layon Iaemori</sub>
+  <sub></sub>
 </div>
